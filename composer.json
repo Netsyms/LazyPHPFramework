@@ -1,0 +1,13 @@
+{
+    "name": "netsyms/lazyphpframework",
+    "description": "A PHP app framework for lazy coders that need something fast and simple, probably to replace a business process that still uses paper.",
+    "require": {
+        "catfan/medoo": "^1.1"
+    },
+    "authors": [
+        {
+            "name": "Skylar Ittner",
+            "email": "admin@netsyms.com"
+        }
+    ]
+}
